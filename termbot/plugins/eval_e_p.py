@@ -12,7 +12,7 @@ import traceback
 
 from pyrogram import (
     Client,
-    filters
+    Filters
 )
 
 from termbot import (
